@@ -1,0 +1,8 @@
+mars/entity/HistoryItem.class
+mars/common/GeoHash.class
+mars/ApplicationConfiguration.class
+mars/entity/Item$ItemBuilder.class
+mars/common/ResponseHelper.class
+mars/entity/Item.class
+mars/entity/Item$1.class
+mars/ApiController.class
